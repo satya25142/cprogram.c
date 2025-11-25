@@ -1,9 +1,9 @@
-<img width="438" height="100" alt="image" src="https://github.com/user-attachments/assets/dee78ed6-e420-4149-896d-db735d43332e" />
-<img width="438" height="100" alt="image" src="https://github.com/user-attachments/assets/4a14b4d5-67fc-4e03-a998-9d75e70e80a5" />
-<img width="438" height="100" alt="image" src="https://github.com/user-attachments/assets/c60dc3fa-2eef-44e5-a440-d44026438f32" />
-<img width="438" height="100" alt="image" src="https://github.com/user-attachments/assets/7e985ca5-7950-4963-a89a-3f9683dfb4ba" />
-<img width="438" height="100" alt="image" src="https://github.com/user-attachments/assets/1f4ac8de-9eb1-4dba-83b3-47271f2a5206" />
-<img width="438" height="100" alt="image" src="https://github.com/user-attachments/assets/06f01731-7f88-4d38-83a9-e7d8c46ddd31" />
-<img width="438" height="100" alt="image" src="https://github.com/user-attachments/assets/61206d99-dc41-4b89-9d5d-e13784a5c0c4" />
-<img width="438" height="100" alt="image" src="https://github.com/user-attachments/assets/23682b32-97dc-4fa7-93ed-99794bc82be9" />
-# cprogram.c
+#c program.c
+here the output of the program:-
+<img width="601" height="67" alt="Screenshot 2025-11-25 125255" src="https://github.com/user-attachments/assets/a43c06e4-b773-47d1-bce1-e2cc95385e3e" />
+<img width="324" height="186" alt="Screenshot 2025-11-25 125533" src="https://github.com/user-attachments/assets/04a1f92c-8333-4e08-95a9-c3a92dba35b9" />
+<img width="425" height="42" alt="Screenshot 2025-11-25 125638" src="https://github.com/user-attachments/assets/be32c38c-d551-462a-a656-c79586ed7711" />
+<img width="443" height="61" alt="Screenshot 2025-11-25 125706" src="https://github.com/user-attachments/assets/d836b97a-2818-4cc3-9311-51889e780c62" />
+<img width="629" height="63" alt="Screenshot 2025-11-25 125738" src="https://github.com/user-attachments/assets/5dd228de-6c26-4a58-a613-a1ae844116e3" />
+<img width="616" height="40" alt="Screenshot 2025-11-25 125830" src="https://github.com/user-attachments/assets/056ebc72-08be-48a6-a99e-bff2ca8220d2" />
+<img width="439" height="100" alt="Screenshot 2025-11-25 125931" src="https://github.com/user-attachments/assets/414a1a3d-cf97-4bb5-b955-bf93d770375b" />
